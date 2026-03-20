@@ -1,0 +1,16 @@
+{
+  "_comment": "Local development settings for Mission 11 BookstoreApi. applicationUrl is used by dotnet run/Visual Studio.",
+  "$schema": "https://json.schemastore.org/launchsettings.json",
+  "profiles": {
+    "BookstoreApi": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "launchBrowser": false,
+      "applicationUrl": "http://localhost:5000",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
+
